@@ -1,4 +1,4 @@
-# docker-compose
+# docker-compose-hello
 installed docker and docker compose on EC2 linux machine 
 created yml file and added nginx-web and postgres - Db on port 80 
 run the docker compose command
